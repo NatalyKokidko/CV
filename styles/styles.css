@@ -114,7 +114,7 @@ margin-left: 15px;
 /* work style */
 .work {
     
-padding-top: 100px;
+padding-top: 50px;
 padding-left:20px ;
 padding-bottom: 50px;
 padding-right: 40px;
@@ -223,6 +223,57 @@ color: #FFFFFF;
 opacity: 0.5; 
  
 }
+.contact-address {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 10px;    
+}
+.contact-add {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    opacity: 0.5; 
+        
+}
+
+.contact-git {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 10px;  
+}
+.link-git {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    opacity: 0.5;    
+}
+
+.contact-linkedin {
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 10px;
+}
+.link-linkedin {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    opacity: 0.5;   
+}
 
 .tech-skills {
 color: #FFFFFF;
@@ -247,7 +298,7 @@ line-height: 24px;
         
 }
 .tech-skills-item {
-color:#FB6D3A;;
+color:#FB6D3A;
 }
 
 .tech-skills-text {
@@ -257,3 +308,21 @@ font-weight: 700;
 font-size: 14px;
 line-height: 24px;
 }
+
+.languages {
+    margin-left: 40px;
+    color: #FFFFFF;
+    font-style: normal; 
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;   
+}
+.languages-list {
+    color: #FFFFFF;
+    padding: 0;
+    margin-left: 20px;
+    }
+
+    .languages-item {
+        color:#FB6D3A;
+    }
